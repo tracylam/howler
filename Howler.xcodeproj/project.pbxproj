@@ -14,6 +14,14 @@
 		C7B7381D1BC0A7A900B39E1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7B7381B1BC0A7A900B39E1B /* LaunchScreen.storyboard */; };
 		C7B738281BC0A7A900B39E1B /* HowlerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7B738271BC0A7A900B39E1B /* HowlerTests.swift */; };
 		C7B738331BC0A7A900B39E1B /* HowlerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7B738321BC0A7A900B39E1B /* HowlerUITests.swift */; };
+		C7B7384A1BC0C17600B39E1B /* 2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738421BC0C17600B39E1B /* 2.mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B7384B1BC0C17600B39E1B /* 3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738431BC0C17600B39E1B /* 3.mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B7384C1BC0C17600B39E1B /* 4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738441BC0C17600B39E1B /* 4.mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B7384D1BC0C17600B39E1B /* 5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738451BC0C17600B39E1B /* 5.mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B7384E1BC0C17600B39E1B /* Dwight Yelling (mp3cut.net).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738461BC0C17600B39E1B /* Dwight Yelling (mp3cut.net).mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B7384F1BC0C17600B39E1B /* Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738471BC0C17600B39E1B /* Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B738501BC0C17600B39E1B /* Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738481BC0C17600B39E1B /* Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3 */; settings = {ASSET_TAGS = (); }; };
+		C7B738511BC0C17600B39E1B /* Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C7B738491BC0C17600B39E1B /* Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3 */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +55,14 @@
 		C7B7382E1BC0A7A900B39E1B /* HowlerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HowlerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7B738321BC0A7A900B39E1B /* HowlerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowlerUITests.swift; sourceTree = "<group>"; };
 		C7B738341BC0A7A900B39E1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7B738421BC0C17600B39E1B /* 2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 2.mp3; sourceTree = "<group>"; };
+		C7B738431BC0C17600B39E1B /* 3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3.mp3; sourceTree = "<group>"; };
+		C7B738441BC0C17600B39E1B /* 4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 4.mp3; sourceTree = "<group>"; };
+		C7B738451BC0C17600B39E1B /* 5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 5.mp3; sourceTree = "<group>"; };
+		C7B738461BC0C17600B39E1B /* Dwight Yelling (mp3cut.net).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dwight Yelling (mp3cut.net).mp3"; sourceTree = "<group>"; };
+		C7B738471BC0C17600B39E1B /* Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3"; sourceTree = "<group>"; };
+		C7B738481BC0C17600B39E1B /* Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3"; sourceTree = "<group>"; };
+		C7B738491BC0C17600B39E1B /* Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +113,7 @@
 		C7B738111BC0A7A900B39E1B /* Howler */ = {
 			isa = PBXGroup;
 			children = (
+				C7B738521BC0C18D00B39E1B /* Supporting FIles */,
 				C7B738121BC0A7A900B39E1B /* AppDelegate.swift */,
 				C7B738141BC0A7A900B39E1B /* ViewController.swift */,
 				C7B738161BC0A7A900B39E1B /* Main.storyboard */,
@@ -123,6 +140,21 @@
 				C7B738341BC0A7A900B39E1B /* Info.plist */,
 			);
 			path = HowlerUITests;
+			sourceTree = "<group>";
+		};
+		C7B738521BC0C18D00B39E1B /* Supporting FIles */ = {
+			isa = PBXGroup;
+			children = (
+				C7B738421BC0C17600B39E1B /* 2.mp3 */,
+				C7B738431BC0C17600B39E1B /* 3.mp3 */,
+				C7B738441BC0C17600B39E1B /* 4.mp3 */,
+				C7B738451BC0C17600B39E1B /* 5.mp3 */,
+				C7B738461BC0C17600B39E1B /* Dwight Yelling (mp3cut.net).mp3 */,
+				C7B738471BC0C17600B39E1B /* Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3 */,
+				C7B738481BC0C17600B39E1B /* Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3 */,
+				C7B738491BC0C17600B39E1B /* Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3 */,
+			);
+			name = "Supporting FIles";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,7 +260,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7B7384D1BC0C17600B39E1B /* 5.mp3 in Resources */,
+				C7B7384B1BC0C17600B39E1B /* 3.mp3 in Resources */,
+				C7B7384E1BC0C17600B39E1B /* Dwight Yelling (mp3cut.net).mp3 in Resources */,
 				C7B7381D1BC0A7A900B39E1B /* LaunchScreen.storyboard in Resources */,
+				C7B738511BC0C17600B39E1B /* Shia LaBeouf Just Do It Motivational Speech – Original Video (mp3cut.net).mp3 in Resources */,
+				C7B7384F1BC0C17600B39E1B /* Get Your Shit Together, Summer - Rick and Morty (mp3cut.net).mp3 in Resources */,
+				C7B7384A1BC0C17600B39E1B /* 2.mp3 in Resources */,
+				C7B7384C1BC0C17600B39E1B /* 4.mp3 in Resources */,
+				C7B738501BC0C17600B39E1B /* Gordon Ramsay- An Idiot Sandwich (mp3cut.net).mp3 in Resources */,
 				C7B7381A1BC0A7A900B39E1B /* Assets.xcassets in Resources */,
 				C7B738181BC0A7A900B39E1B /* Main.storyboard in Resources */,
 			);
